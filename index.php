@@ -6,6 +6,6 @@
     <title>Git Version Control</title>
 </head>
 <body>
-    Git VC
+    <h1>Git VC</h1>
 </body>
 </html>
